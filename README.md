@@ -29,10 +29,10 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
 
 ## Getting Started
 
-### This is the mobile market place for android.
-### No code should directly be pushed to main.
-### Always create your own branch and push to it then make a pull request.
-### Make sure you have a push every sprint please.
+* This is the mobile market place for android.
+* No code should directly be pushed to main.
+* Always create your own branch and push to it then make a pull request.
+* Make sure you have a push every sprint please.
 
 ## Features
 1. User Authentication: Secure authentication and authorization for buyers and suppliers.
