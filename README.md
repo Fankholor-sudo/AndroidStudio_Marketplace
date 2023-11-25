@@ -54,23 +54,16 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
    * Ensure you have the necessary SDK and dependencies installed.
     
 3. Backend Setup:
-   ``
-   Set up the PHP backend on a server.
-   Update the API base URL in the Android app code to point to your backend server.
-   ``
+   * Set up the PHP backend on a server.
+   * Update the API base URL in the Android app code to point to your backend server.
 4. Database Setup:
-   ``
-   Create a new MySQL database.
-   Import the database.sql file located in the backend directory to set up the required tables.
-   ``
+   * Create a new MySQL database.
+   * Import the database.sql file located in the backend directory to set up the required tables.
+    
 5. Configure API Endpoints:
-   ``
-   In the Android app code, update the API endpoints to match your backend server.
-   ``
+   * In the Android app code, update the API endpoints to match your backend server.
 6. Run the App:
-   ``
-   Build and run the app on an Android emulator or a physical device.
-   ``
+   * Build and run the app on an Android emulator or a physical device.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
