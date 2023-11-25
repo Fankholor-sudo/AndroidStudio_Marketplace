@@ -35,12 +35,12 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
 * Make sure you have a push every sprint please.
 
 ### Features
-1. User Authentication: Secure authentication and authorization for buyers and suppliers.
-2. Product Exploration: Browse a diverse range of products provided by different suppliers.
-3. Shopping Cart: Easily add items to your cart and proceed with a seamless checkout process.
-4. Order Management: Track and manage your orders efficiently.
-5. Supplier Dashboard: Suppliers can manage product listings, view orders, and monitor sales.
-6. Search and Filters: Quickly find products using search functionality and apply filters.
+* <b>User Authentication:</b> Secure authentication and authorization for buyers and suppliers.
+* <b>Product Exploration:</b> Browse a diverse range of products provided by different suppliers.
+* <b>Shopping Cart:</b> Easily add items to your cart and proceed with a seamless checkout process.
+* <b>Order Management:</b> Track and manage your orders efficiently.
+* <b>Supplier Dashboard:</b> Suppliers can manage product listings, view orders, and monitor sales.
+* <b>Search and Filters:</b> Quickly find products using search functionality and apply filters.
 
 
 ### Installation
