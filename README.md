@@ -50,10 +50,9 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
    git clone https://github.com/fankholor-sudo/AndroidStudio_Marketplace.git
    ```
 2. android Studio Setup
-   ``
-   Open the project in Android Studio.
-   Ensure you have the necessary SDK and dependencies installed.
-   ``
+   * Open the project in Android Studio.
+   * Ensure you have the necessary SDK and dependencies installed.
+    
 3. Backend Setup:
    ``
    Set up the PHP backend on a server.
