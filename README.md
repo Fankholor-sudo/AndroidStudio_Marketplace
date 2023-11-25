@@ -22,19 +22,19 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+### About The Project
 
 Welcome to the Marketplace Android App repository! This mobile application, built with Android Studio, utilizes PHP for the backend and SQL for database management. It serves as a marketplace where users can conveniently browse and purchase items from various suppliers.
 
 
-## Getting Started
+### Getting Started
 
 * This is the mobile market place for android.
 * No code should directly be pushed to main.
 * Always create your own branch and push to it then make a pull request.
 * Make sure you have a push every sprint please.
 
-## Features
+### Features
 1. User Authentication: Secure authentication and authorization for buyers and suppliers.
 2. Product Exploration: Browse a diverse range of products provided by different suppliers.
 3. Shopping Cart: Easily add items to your cart and proceed with a seamless checkout process.
@@ -66,7 +66,7 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Usage
+### Usage
 
 1. Open the app and explore the available products.
 2. Sign up or log in to start shopping.
@@ -77,7 +77,7 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -94,14 +94,14 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 
-## License
+### License
 <p>This project is licensed under the <a href="https://opensource.org/license/ecl-1-0/">MIT License.</a></p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+### Acknowledgments
 
 - []()
 
