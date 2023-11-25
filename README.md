@@ -73,8 +73,6 @@ Welcome to the Marketplace Android App repository! This mobile application, buil
 3. Add items to your cart and proceed to checkout.
 4. Suppliers can log in to the supplier dashboard to manage product listings and view orders.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ### Contributing
