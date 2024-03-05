@@ -1,5 +1,8 @@
 # Marketplace Android App
 
+#### Created: 2021
+#### Teck Stack: Android Studio and Java
+
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
 <ol>
